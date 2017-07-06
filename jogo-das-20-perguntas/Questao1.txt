@@ -1,0 +1,5 @@
+Q: É um animal?  
+R: gato 
+Q: Ele vai em seus pés? 
+R: sapato 
+R: computador 
