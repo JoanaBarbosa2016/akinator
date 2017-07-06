@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*-
 """
 /***********************************************************************************/
-/* Aluno: Joana D'arc,Túlio Farias,Antônio Frederico,Jefferson Pelinson      */
-/* Matrículas: 1526-12,  2926-15,0226-15,1626-11                                                                          */
-/* Curso: Ciência da Computação                                                             */
-/* 2º Trabalho Prático -- Vinte Questões                                                   */
-/* DCC254 -- 2017 -- IFSEMG, turma Especiais/K                                    */
-/* Prof. Flávio Augusto de Freitas                                                             */
-/* Compilador: IDLE(Python GUI) versão 2.7                                            */
-/* Sistema Operacional: Windows vista                                                     */
+/* Aluno: Joana D'arc                                                              */
+/* Matrículas: 1526-12                                                             */
+/* Curso: Ciência da Computação                                                     */
+/* 2º Trabalho Prático -- Vinte Questões                                            */
+/* DCC254 -- 2017 -- IFSEMG, turma Especiais/K                                      */
+/* Prof. Flávio Augusto de Freitas                                                  */
+/* Compilador: IDLE(Python GUI) versão 2.7                                           */
+/* Sistema Operacional: Windows vista                                                */
 /********************************************************************************/"""
 
  
